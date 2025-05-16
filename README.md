@@ -41,7 +41,7 @@ DataDrivenLearningHub/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/data-driven-learning-hub.git
+   git clone https://github.com/jyothibhuma/jyothi.git
    ```
 
 2. Import the project into **Eclipse/NetBeans/IntelliJ** (Java IDE)
@@ -52,7 +52,7 @@ DataDrivenLearningHub/
 
 4. Deploy the project on **Apache Tomcat**
 
-5. Access the app via: `http://localhost:8080/DataDrivenLearningHub/`
+5. Access the app via: `http://localhost:8080/jyothi/`
 
 ## 🧪 Testing
 
@@ -68,4 +68,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-For queries, reach out at [your-email@example.com] or raise an issue.
+For queries, reach out at jyothibhuma13@gmail.com or raise an issue.
